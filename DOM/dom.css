@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+button {
+    background-color: orange;
+    color: white;
+    padding: 1%;
+    border-radius: 30%;
+    text-align: center;
+    margin: auto;
+}
+
+#oculto {
+    display: none;
+}
+
+#miFormulario {
+    background-color: lightsteelblue;
+    padding: 1%;
+    width: 50%;
+}
+
+h3 {
+    color: darkslateblue
+}
+
+table {
+    border-collapse: collapse;
+    width: 50%;
+    margin-top: 20px;
+    background-color:darkslateblue
+}
+
+th, td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+th {
+    background-color: #f2f2f2;
+}
